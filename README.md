@@ -1,5 +1,7 @@
 # ⚡ Power-Aware Process Scheduling Simulator
 
+🔗 **Live Demo**: [View on Netlify](https://power-aware-process-scheduler.netlify.app/)
+
 A React-based web application that simulates power-aware CPU scheduling algorithms. It allows users to input processes and view real-time analytics such as execution time, power consumption, and more.
 
 ## 🚀 Features
